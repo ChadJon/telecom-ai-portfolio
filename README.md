@@ -20,8 +20,8 @@ This portfolio documents my journey through the fundamentals of telecommunicatio
 ## 🛠 Selected Works
 *Documents demonstrating my understanding of fundamentals:*
 
-**Lab 1:** Network Prediction**
-**Lab 1:** Assignment 2**
+**Lab 1:** Network Prediction
+**Lab 1:** Assignment 2
 
 
 ---
