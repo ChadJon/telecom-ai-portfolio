@@ -20,8 +20,8 @@ This portfolio documents my journey through the fundamentals of telecommunicatio
 ## 🛠 Selected Works
 *Documents demonstrating my understanding of fundamentals:*
 
-[**Lab 1:** etwork Prediction**](Artifacts/Chad_Jones_ITAI_4370_Network_Prediction (2).docx)
-- **Lab 2:** Assignment 2 ([Artifacts/assignment 02_chad jones.pdf])
+**Lab 1:** Network Prediction**
+**Lab 1:** Assignment 2**
 
 
 ---
@@ -42,7 +42,6 @@ This portfolio documents my journey through the fundamentals of telecommunicatio
 - **Problem:** Predicting peak congestion in a 5G architecture.
 - **Tools:** Python, Scikit-learn, Matplotlib.
 - **Result:** Achieved 88% accuracy in predicting traffic spikes.
-- [**View Documentation & Code**](projects/project-detail.md)
 
 ---
 
