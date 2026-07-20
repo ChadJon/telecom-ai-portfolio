@@ -1,6 +1,6 @@
 # Course Portfolio: Telecommunications & AI
 **Student Name:** Chad Jones
-**Course:** 
+**Course:** AI 5/6G Comm & ORAN Net
 **Date:** July 2024
 
 ## 🌐 Overview
@@ -19,20 +19,20 @@ This portfolio documents my journey through the fundamentals of telecommunicatio
 
 ## 🛠 Selected Works
 *Documents demonstrating my understanding of fundamentals:*
-- **Lab 1:** Signal Modulation & Fundamentals ([Link to file in /artifacts])
-- **Lab 2:** OSI Model & Packet Switching ([Link to file in /artifacts])
-- **Mini-Project:** Network Topology Design ([Link to file in /projects])
+- **Lab 1:** etwork Prediction ([Artifacts/Chad_Jones_ITAI_4370_Network_Prediction (2).docx])
+- **Lab 2:** Assignment 2 ([Artifacts/assignment 02_chad jones.pdf])
+
 
 ---
 
 ## ✍️ Reflective Essays
 ### 1. Evolution of Telecommunications Understanding
 > *Excerpt:* "At the start of this course, I viewed telecommunications as static hardware. I now understand it as a dynamic software-defined ecosystem..."
-> [**Read Full Essay 1 here**](essays/essay1.md)
+> [**Read Full Essay 1 here**](Essays/essay1.md)
 
 ### 2. Applying AI to Telecommunications
 > *Excerpt:* "Applying Machine Learning to traffic prediction showed me how AI can move networks from reactive to proactive management..."
-> [**Read Full Essay 2 here**](essays/essay2.md)
+> [**Read Full Essay 2 here**](Essays/essay2.md)
 
 ---
 
